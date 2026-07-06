@@ -38,21 +38,6 @@ AI Integration
 * Maven
 * Git & GitHub
 
-**Project Architecture**
-
-User
- ↓
-Frontend Interface
- ↓
-Spring Boot REST API
- ↓
-OpenAI API
- ↓
-AI Response Generation
- ↓
-Frontend Response Display
-
-
 **Future Enhancements**
 
 * User authentication and authorization
